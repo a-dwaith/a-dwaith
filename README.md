@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhu-adwaith&show_icons=true&locale=en" alt="adhu-adwaith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhu-adwaith&" alt="adhu-adwaith" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-dwaith&" alt="a-dwaith" /></p>
