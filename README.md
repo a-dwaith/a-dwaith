@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Adwaith M K</h1>
 <h3 align="center">A Bytes and beats enthusiasts!</h3>
+<img align ="right" alt ="Gif" width ="400" src= "https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 - 🌱 I’m currently learning  **Flutter**
 
