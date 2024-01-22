@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adwaith M K</h1>
 <h3 align="center">A Bytes and beats enthusiasts!</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning  **Flutter**
 
-# - 👨‍💻 All of my projects are available at [https://portfolio-a-dwaith.vercel.app/](https://portfolio-a-dwaith.vercel.app/)
+[//] : # "- 👨‍💻 All of my projects are available at [https://portfolio-a-dwaith.vercel.app/](https://portfolio-a-dwaith.vercel.app/)"
 
 - 📫 How to reach me **dwaithmk@gmail.com**
 
