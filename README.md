@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning  **Flutter**
 
-[//] : # "- 👨‍💻 All of my projects are available at [https://portfolio-a-dwaith.vercel.app/](https://portfolio-a-dwaith.vercel.app/)"
-
 - 📫 How to reach me **dwaithmk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
